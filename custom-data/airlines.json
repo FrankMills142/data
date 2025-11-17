@@ -1151,4 +1151,16 @@
     "callsign": "ALLIED",
     "virtual": true
   }  
+     {
+    "icao": "LUF",
+    "name": "AeroLuxFly",
+    "callsign": "AEROLUXFLY",
+    "virtual": true
+  }  
+     {
+    "icao": "LUJ",
+    "name": "AeroLuxFly Executive",
+    "callsign": "LUXJET",
+    "virtual": true
+  }  
 ]
